@@ -1,7 +1,7 @@
 #source 'https://rubygems.org'
 source 'http://rubygems.org'
 
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+git_source(:github) { |repo| "https://github.com/AlvondiRLJ/lab_onebitfood.git" }
 
 ruby '2.5.5'
 
