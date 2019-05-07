@@ -1,5 +1,5 @@
 class OrdersController < ApplicationController
-before_action :set_order, only: :show
+  before_action :set_order, only: :show
 
   def create
     order = Order.new(order_params)
